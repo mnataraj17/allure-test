@@ -1,5 +1,5 @@
 {
-  "reportName" : "Allure Report",
+  "reportName" : "Allure Report-UI-Tests",
   "testRuns" : [ ],
   "statistic" : {
     "failed" : 0,
