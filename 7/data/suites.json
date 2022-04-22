@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "accountTests.spec.ts",
+      "children" : [ {
+        "name" : "Account settings Test",
+        "children" : [ {
+          "name" : "Verify account update @account",
+          "uid" : "2efad111b9c2f631",
+          "parentUid" : "b66d32683d5048fe322d3c9392c3b79a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650646880921,
+            "stop" : 1650646892903,
+            "duration" : 11982
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b66d32683d5048fe322d3c9392c3b79a"
+      } ],
+      "uid" : "c2e8881523dd0140ae4c5e130dfcbb12"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ],
+  "name" : "suites"
+}

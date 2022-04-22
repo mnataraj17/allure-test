@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://mnataraj17.github.io/cm-client-ui-test-automation--clone",
+  "buildOrder" : 6,
+  "buildName" : "GitHub Actions Run #2209003660",
+  "buildUrl" : "https://github.com/mnataraj17/cm-client-ui-test-automation--clone/actions/runs/2209003660",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://mnataraj17.github.io/cm-client-ui-test-automation--clone/6/"
+} ]

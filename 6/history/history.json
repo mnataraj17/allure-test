@@ -1,0 +1,22 @@
+{
+  "chromium accountTests.spec.ts Account settings Test Verify account update @account" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "915a5bb5e2954314",
+      "reportUrl" : "https://mnataraj17.github.io/cm-client-ui-test-automation--clone/6//#testresult/915a5bb5e2954314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650646616414,
+        "stop" : 1650646628813,
+        "duration" : 12399
+      }
+    } ]
+  }
+}

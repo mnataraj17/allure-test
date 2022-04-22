@@ -1,0 +1,31 @@
+{
+  "chromium accountTests.spec.ts Account settings Test Verify account update @account" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "2efad111b9c2f631",
+      "reportUrl" : "https://mnataraj17.github.io/cm-client-ui-test-automation--clone/7//#testresult/2efad111b9c2f631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650646880921,
+        "stop" : 1650646892903,
+        "duration" : 11982
+      }
+    }, {
+      "uid" : "915a5bb5e2954314",
+      "reportUrl" : "https://mnataraj17.github.io/cm-client-ui-test-automation--clone/6//#testresult/915a5bb5e2954314",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650646616414,
+        "stop" : 1650646628813,
+        "duration" : 12399
+      }
+    } ]
+  }
+}
